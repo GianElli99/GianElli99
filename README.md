@@ -10,7 +10,7 @@ I love spending time looking "Underneath the Hood" at every technology I'm worki
 ### 💻 Portfolio
 [Still in progress](https://gianelli99.github.io/)
 ### Resume
- - English
+ - <a href="/assets/Gianfranco Elli - Resume.pdf" download target="_black">English</a>
  - Spanish
 ### 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/gianfranco-elli/)
