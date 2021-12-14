@@ -6,12 +6,12 @@ I love spending time looking "Underneath the Hood" at every technology I'm worki
  - [Lawful](https://github.com/GianElli99/Lawful), I've made a [YouTube video](https://www.youtube.com/watch?v=oCt0a12_iww&ab_channel=GianfrancoElli)
  - MERN Stack Products [Backend](https://github.com/GianElli99/binance-trading-bot) and [Frontend](https://github.com/GianElli99/mern-products-frontend)
 ### 🧠 I’m currently learning ...
-  - Microservices Architecture, Docker and TS
+ - Microservices Architecture, Docker and TS
 ### 💻 Portfolio
-[Still in progress](https://gianelli99.github.io/)
+ - <a href="https://gianelli99.github.io/" target="_black">Still in progress</a>
 ### Resume
- - <a href="/assets/Gianfranco Elli - Resume.pdf" download target="_black">English</a>
- - Spanish
+ - <a href="/assets/Gianfranco Elli - Resume.pdf" target="_black">English</a>
+ - <a href="/assets/Gianfranco Elli - Curriculum Vitae.pdf" target="_black">Spanish</a>
 ### 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/gianfranco-elli/)
  - Email: gianelli99@hotmail.com
